@@ -262,6 +262,19 @@ html, body {
   }
 }
 
+@media (max-width: 400px){
+
+.navbar-brand {
+	float: left;
+    width: 70%;
+    height: 50px;
+    padding: 20px 10px;
+    line-height: 12px;
+	}
+	.navbar-brand a img {
+	width: 100%
+	}
+}
 
 
 #welcome {
