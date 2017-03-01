@@ -561,13 +561,14 @@ html, body {
   text-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
 }
 
-#cta-headline p a {
-  color: #f8bc3b;
-  text-decoration: none;
+#cta-headline > p > a {
+  color: #f8bc3b !important;
+  text-decoration: none !important;
 }
 
-#cta-headline p a:hover {
-  color: #dea62e;
+#cta-headline > p > a:hover {
+  color: #dea62e !important;
+  text-decoration: none !important;
 }
 
 
