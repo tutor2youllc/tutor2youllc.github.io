@@ -197,7 +197,7 @@ html, body {
   height: auto !important;
 }
 
-.navbar-brand img{
+#mainNav > div > div.navbar-header > a > img {
 	width: 100% !important;
 }
 
